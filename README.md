@@ -1,6 +1,6 @@
 # Hey, this is Yash 👋 
 
-Excited you found my corner of the internet! I'm a software engineering student at uWaterloo who's constantly making things. I'm currently focusing on machine learning models and web apps.
+Excited you found my corner of the internet! I'm a software engineering student at uWaterloo who's constantly making things.
  
 ## 🔭 Current Work
   * Building AI for doctors on the NLP team @ [conversationHEALTH](https://www.conversationhealth.com/) 👩‍⚕️
@@ -9,7 +9,7 @@ Excited you found my corner of the internet! I'm a software engineering student 
  
  
 ## 📫 Reach me
-[twitter](https://twitter.com/itsyashdani) | [Email](mailto:yash.dani@uwaterloo.ca)
+[Twitter](https://twitter.com/itsyashdani) | [Email](mailto:yash.dani@uwaterloo.ca) | [LinkedIn](https://www.linkedin.com/in/ydani/)
 
 <!--
 **yash-dani/yash-dani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
