@@ -4,7 +4,7 @@ Excited you found my corner of the internet! I'm a software engineering student 
  
 ## 🔭 Current Work
   * Building AI for doctors on the NLP team @ [conversationHEALTH](https://www.conversationhealth.com/) 👩‍⚕️
-  * Developing Web Apps for scientists @ [Jelly PBC](https://jellypbc.com/) 🧬
+  * Developing tools for scientists as a full-stack dev @ [Jelly PBC](https://jellypbc.com/) 🧬
   * Experimenting with building useful apps using openAI's [GPT-3](http://beta.openai.com/) 👨🏾‍💻 
  
  
