@@ -1,6 +1,6 @@
-# Hey, this is Yash 👋 
+# Hey, it's Yash 👋 
 
-Excited you found my corner of the internet! I'm a software engineering student at uWaterloo who's constantly making things.
+I'm a software engineering student at uWaterloo who's constantly making things. Excited you found my corner of the internet! 
  
 ## 🔭 Current Work
   * Building AI for doctors on the NLP team @ [conversationHEALTH](https://www.conversationhealth.com/) 👩‍⚕️
