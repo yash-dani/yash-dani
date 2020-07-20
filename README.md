@@ -5,6 +5,7 @@ I'm a software engineering student at uWaterloo who's constantly making things. 
 ## 🔭 Current Work
   * Building AI for doctors on the NLP team @ [conversationHEALTH](https://www.conversationhealth.com/) 👩‍⚕️
   * Developing tools for scientists as a full-stack dev @ [Jelly PBC](https://jellypbc.com/) 🧬
+  * Creating scholarize.me; currently in a private beta of 100 users 👀
   * Experimenting with building interesting apps using openAI's [GPT-3](http://beta.openai.com/) 👨🏾‍💻 
  
  
