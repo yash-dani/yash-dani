@@ -1,6 +1,8 @@
 # Hey, it's Yash 👋 
 
 I'm a software engineering student at uWaterloo who's constantly making things. Excited you found my corner of the internet! 
+
+I'm looking for an internship from January 2020 onwards. If you're interested, let's talk 👀
  
 ## 🔭 Current Work
   * Building AI for doctors on the NLP team @ [conversationHEALTH](https://www.conversationhealth.com/) 👩‍⚕️
