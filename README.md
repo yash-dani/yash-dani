@@ -4,8 +4,8 @@ I'm a software engineering student at uWaterloo who's constantly making things. 
 
 I'm looking for an internship from January 2021 onwards. If you're interested, let's talk 👀
  
-## 🔭 Current Work
-  * Creating scholarize.me; currently in a private beta of 100 users 👀
+## 👨🏾‍💻 Current Work
+  * Building [tl;dr papers](https://tldrpapers.com) for 10,000 monthly users 👀
   * Innovating with openAI's [GPT-3](http://beta.openai.com/), I made [this](https://twitter.com/itsyashdani/status/1285695850300219392). 👨🏾‍💻 
   * Building AI for doctors on the NLP team @ [conversationHEALTH](https://www.conversationhealth.com/) 👩‍⚕️
   * Developing tools for scientists as a full-stack dev @ [Jelly PBC](https://jellypbc.com/) 🧬
