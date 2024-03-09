@@ -1,16 +1,1 @@
-```
-        __ _.--..--._ _
-     .-' _/   _/\_   \_'-.
-    |__ /   _/\__/\_   \__|
-       |___/\_\__/  \___|
-              \__/
-              \__/
-               \__/
-                \__/
-             ____\__/___
-       . - '             ' -.
-      /                      \
-~~~~~~~  ~~~~~ ~~~~~  ~~~ ~~~  ~~~~~
-  ~~~   ~~~~~   ~!~~   ~~ ~  ~ ~ ~
-```
-Always happy to chat at yash.dani[at]uwaterloo.ca :) 
+If you (somehow) found this page, we should be friends! Don't be a stranger at yash.dani[at]uwaterloo.ca :) 
